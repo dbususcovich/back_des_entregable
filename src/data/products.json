@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"title": "Termo Stanley",
+		"description": "Termo Stanley",
+		"code": "ter1",
+		"price": 7999,
+		"status": true,
+		"stock": 25,
+		"category": "Termo Stanley",
+		"thumbnails": "No obligatorio"
+	},
+	{
+		"id": 2,
+		"title": "Termo Luminagro",
+		"description": "Termo Generico",
+		"code": "ter2",
+		"price": 2999,
+		"status": true,
+		"stock": 25,
+		"category": "termo",
+		"thumbnails": "No obligatorio"
+	},
+	{
+		"id": 3,
+		"title": "Mate Stanley",
+		"description": "Mate Stanley",
+		"code": "mat1",
+		"price": 3999,
+		"status": true,
+		"stock": 25,
+		"category": "Mate Stanley",
+		"thumbnails": "No obligatorio"
+	},
+	{
+		"id": 4,
+		"title": "Mate Plastico",
+		"description": "Mate Generico",
+		"code": "mat2",
+		"price": 999,
+		"status": true,
+		"stock": 25,
+		"category": "mate",
+		"thumbnails": "No obligatorio"
+	},
+	{
+		"id": 5,
+		"title": "Yerba",
+		"description": "Yerba Matera",
+		"code": "yer1",
+		"price": 399,
+		"status": true,
+		"stock": 25,
+		"category": "yerba",
+		"thumbnails": "No obligatorio"
+	}
+	
+]
